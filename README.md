@@ -1,78 +1,59 @@
 # AI-ML-Internship-Project
-# Utility Usage Prediction Tool
+# AI & ML Internship Projects
 
-## Project Overview
+Welcome to my **AI & Machine Learning Internship Projects** repository.
 
-This project is a Machine Learning based console application developed in Python. It predicts utility usage based on user input. The application also allows users to add, view, and update records stored in a CSV file.
-
-## Features
-
-* Add new utility usage records
-* View all stored records
-* Update existing records
-* Train a Linear Regression model
-* Predict current utility usage
-* CSV file handling
-* Menu-driven console application
+This repository contains the projects I have completed during my AI/ML internship and learning journey. Each project focuses on applying Machine Learning concepts, data preprocessing, model building, and prediction using Python.
 
 ## Technologies Used
 
 * Python
-* Pandas
 * NumPy
+* Pandas
 * Scikit-learn
 * Jupyter Notebook
 
-## Dataset
+## Projects
 
-The project uses a CSV dataset containing the following columns:
+### Project 1: Utility Usage Prediction Tool
 
-* Days
-* FamilyMembers
-* PreviousUsage
-* CurrentUsage
+* Menu-driven console application
+* Add, View, and Update utility records
+* Train a Linear Regression model
+* Predict utility usage
+* CSV-based data management
 
-## Machine Learning Model
+### Upcoming Projects
 
-* Linear Regression
-* Train-Test Split
-* Model Evaluation using R² Score
+* Student Performance Prediction
+* Employee Salary Prediction
+* House Price Prediction
+* Customer Churn Prediction
+* And more...
 
-## Project Structure
+## Repository Structure
 
-```
-Project/
-│── utility_data.csv
-│── project1.ipynb
-│── README.md
-```
-
-## How to Run
-
-1. Install the required libraries:
-
-```
-pip install pandas numpy scikit-learn
+```text
+AI-ML-Internship-Projects/
+│── Project-1-Utility-Usage-Prediction/
+│── Project-2-Student-Performance-Prediction/
+│── Project-3-...
 ```
 
-2. Open the notebook or run the Python program.
+## Skills Demonstrated
 
-3. Use the menu to:
-
-* Add Data
-* View Data
-* Update Data
-* Train Model
-* Predict Utility Usage
-
-## Future Improvements
-
-* Model Saving using Joblib
-* Better Error Handling
-* Graphical User Interface (GUI)
-* More advanced Machine Learning models
+* Data Preprocessing
+* Machine Learning
+* Model Training
+* Model Evaluation
+* Prediction Systems
+* CSV File Handling
+* Python Programming
 
 ## Author
 
-Sag
-AI/ML Intern | Learning Machine Learning & Data Science
+**Sagar Yadav**
+
+Aspiring AI/ML Engineer | Python Developer | Machine Learning Enthusiast
+
+I'm continuously learning and building real-world AI & Machine Learning projects to strengthen my skills.
