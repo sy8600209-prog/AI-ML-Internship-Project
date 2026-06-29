@@ -72,6 +72,10 @@ pip install pandas numpy scikit-learn
 * More advanced Machine Learning models
 
 ## Author
-
-Sag
+Sagar Yadav
 AI/ML Intern | Learning Machine Learning & Data Science
+
+
+
+
+
